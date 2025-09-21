@@ -6,5 +6,4 @@ pydantic[email]
 
 logging
 requests
-psycopg2-binary
 
