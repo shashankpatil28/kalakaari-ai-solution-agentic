@@ -1,0 +1,10 @@
+google-adk
+uvicorn
+fastapi
+dotenv
+pydantic[email]
+
+logging
+requests
+psycopg2-binary
+
